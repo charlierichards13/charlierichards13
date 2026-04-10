@@ -1,7 +1,93 @@
-##                                                                                                                                   Topics I Love❤️
+<h1 align="center">Hi, I'm Charles Richards 👋</h1>
+<h3 align="center">Computer Science (Cybersecurity) student at Arizona State University</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,nextjs,firebase,git,github,azure,vercel,unity,vscode,linux&theme=dark&perline=7" />
+  Building software, exploring cybersecurity, and creating projects with real-world impact.
+</p>
+
+<p align="center">
+  <a href="https://github.com/charlierichards13">
+    <img src="https://img.shields.io/badge/GitHub-charlierichards13-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/charles-richards-asu">
+    <img src="https://img.shields.io/badge/LinkedIn-Charles%20Richards-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:charles.richards1320@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- 🎓 ASU Computer Science student focused on **Cybersecurity**
+- 💻 Interested in **software engineering, cloud systems, and secure application development**
+- 🚀 Built projects using **Next.js, Firebase, Azure, Python, C++, Java, and Unity**
+- 🌵 Based in Arizona
+- 📈 Always working on improving my technical skills through projects, coursework, and coding practice
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,cs&theme=dark&perline=8" />
+  </a>
+</p>
+
+### Frameworks & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,firebase,azure,git,github,vercel,unity,vscode,linux&theme=dark&perline=9" />
+  </a>
+</p>
+
+---
+
+## Featured Projects
+
+### 🏀 AZ Road to Open
+Full-stack tournament bracket platform for Arizona high school basketball.  
+Built with **Next.js + Firebase**, featuring authentication, bracket locking, leaderboard logic, live updates, and admin tools.
+
+### 🎮 DeathLine
+A Unity action-roguelite prototype inspired by fast-paced combat and replayability.  
+Built with **Unity + C#**, with focus on movement, combat feel, and gameplay systems.
+
+### 🐾 Pet Image Classifier
+A Python-based image classification pipeline for pet image recognition.  
+Focused on preprocessing, validation, and machine learning workflow design.
+
+### 💡 Coding Practice
+Consistently solving algorithm and data structure problems in **C++** through LeetCode and NeetCode practice repositories.
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/charles-richards-asu">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/charlierichards13">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:charles.richards1320@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/charlie.richards13/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=charlierichards13&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlierichards13&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
