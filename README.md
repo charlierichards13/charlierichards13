@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm Charles Richards 👋</h1>
 <h3 align="center">Computer Science (Cybersecurity) student at Arizona State University</h3>
 
@@ -148,4 +148,4 @@ Focused on preprocessing, validation, and machine learning workflow design.
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-```
+
