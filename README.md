@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Charles Richards 👋</h1>
+<h1 align="center">Hi, I'm Charlie Richards 👋</h1>
 <h3 align="center">Computer Science (Cybersecurity) student at Arizona State University</h3>
 
 <p align="center">
