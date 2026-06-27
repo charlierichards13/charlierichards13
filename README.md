@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+fast%2C+secure%2C+real-world+software;Software+Engineering+%7C+Cybersecurity+%7C+Cloud;AI-powered+tools+for+students+and+developers;Performance%2C+precision%2C+and+clean+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+fast%2C+secure%2C+real-world+software;Software+Engineering+%7C+Cybersecurity+%7C+Cloud;Performance%2C+precision%2C+and+clean+systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -148,4 +148,3 @@ Focused on preprocessing, validation, and machine learning workflow design.
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
